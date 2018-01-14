@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+    <name>Shutdown All</name>
+
+    <author>TheUbie</author>
+
+    <url>https://ludeon.com/forums/index.php?topic=38010.0</url>
+
+    <targetVersion>0.18.1722</targetVersion>
+
+<description>
+A designator to quickly add a shutdown medical task to downed mechanoids.
+
+[Version 1.1.0]
+
+updated by sulusdacor
+</description>
+
+</ModMetaData>
