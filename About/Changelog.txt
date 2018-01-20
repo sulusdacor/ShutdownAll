@@ -4,3 +4,7 @@ changelog for mod "Shutdown All"
 
 	- updated code
 	- added designator over patchoperations so it does not conflict with stuffed floors
+
+- 20/01/2018
+
+	- added modsync
